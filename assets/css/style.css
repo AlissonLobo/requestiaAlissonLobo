@@ -1,0 +1,104 @@
+ 
+#header > .row{
+    align-items: center;
+}
+.container.ct2 .card-group .card{
+    border:1px solid #ccc;
+    margin:0 10px;
+}
+
+#menu {
+  background-color: rgba(0,0,0,0.0) !important;
+  padding:0px;
+  margin-left: 0px;
+}
+
+.ladoDireito{	 
+float: right;
+}
+ 
+/*MODAL DE TEXTO EM IMAGENS*/
+
+#mostrar {
+    display: none;
+}
+
+#passarmouse:hover + #mostrar {
+    display: block;
+}
+
+
+.carousel-inner{
+	position: relative;
+    width: 100%;
+    overflow: hidden;
+    top: 155px;
+    padding-left: 5%;
+    background-color: #ffffff9e;
+}
+.carousel-control{
+        top: 110px;
+
+}
+.carousel-control-next-icon{
+	color: #000000;
+} 
+
+.fontGaramond{
+	font-family: 'EB Garamond', serif;
+}
+
+.fontSerrat{
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.espeCoach{
+	font-size: 0.9em;
+		line-height: 1.5em;
+    	background: rgba(255,255,255,0.8);
+      	box-shadow:0px 1px 10px 2px rgba(0,0,0,0.2);
+      	/*border-bottom: 3px solid #00bfeb;*/
+      	font-size: calc(1em + 1vmax);
+      	height: 130px;
+      	text-align: center;
+}
+
+.bg-primary{
+	color: #000000
+}
+
+.atendimento{
+ padding-left: 92px;
+    padding-top: 0px;
+}
+
+.consultoria{
+	padding-left: 92px;
+    padding-top: 17px;
+}
+
+.mentoria{
+	padding-left: 109px;
+    padding-top: 17px;
+}
+
+.treinamento{
+padding-left: 89px;
+    padding-top: 17px;
+}
+
+.palestras{
+	padding-left: 117px;
+    padding-top: 17px;
+}
+
+ .logoPrincipal{
+    width: 39%;
+    border-style: none;
+    padding-left: 26px;
+    padding-top: 7px;	
+ }
+ 
